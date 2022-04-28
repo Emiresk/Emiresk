@@ -5,7 +5,7 @@
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emiresk" alt="emiresk" /></a></p>
 
-- 🔭 I’m currently working on **[hidden name]**
+- 🔭 I’m currently working on **[hidden project name]**
 
 - 🌱 I’m currently learning **Unity3D, Blender**
 
