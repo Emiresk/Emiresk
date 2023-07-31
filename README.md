@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Internal framework**
 
-- 🌱 I’m currently learning **Dart and Flutter**
+- 🌱 I’m currently learning **Dart and Flutter** 
 
 - 📫 How to reach me **svv.luga@gmail.com**
 
@@ -25,7 +25,7 @@
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
 </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="Flutter" width="40" height="40"/> 
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> 
 </a> 
 </p>
 
