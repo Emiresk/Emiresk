@@ -5,9 +5,9 @@
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emiresk" alt="emiresk" /></a></p>
 
-- 🔭 I’m currently working on **[hidden project name]**
+- 🔭 I’m currently working on **Internal framework**
 
-- 🌱 I’m currently learning **Unity3D, Blender**
+- 🌱 I’m currently learning **Dart and Flutter**
 
 - 📫 How to reach me **svv.luga@gmail.com**
 
@@ -23,8 +23,10 @@
 <h4 align="left">Dev langs:</h4>
 <p align="left"> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+</a> 
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="Flutter" width="40" height="40"/> 
+</a> 
 </p>
 
 <h4 align="left">Front end langs:</h4>
